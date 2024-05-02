@@ -50,4 +50,4 @@ For more details about the challenge, visit the [Kaggle competition page](https:
 
 ---
 
-©2024 Team Feature Innovators. For questions or feedback, please contact us at joao-pedro.regazzi-ferreira-da-silva@student-cs.fr.
+©2024 Team Feature Innovators. For questions or feedback, please contact us at lucas.tramonte@student-cs.fr.
