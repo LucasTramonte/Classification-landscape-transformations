@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+scikit-learn
+xgboost
+shap
+jupyter
+tensorflow
+shapely
+scipy
+imblearn
